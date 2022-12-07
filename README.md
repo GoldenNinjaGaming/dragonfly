@@ -4,6 +4,7 @@ The goal of this project is simple.
 Create an affordable gaming handheld that has decent emulation performance. (If we sell it)
 (Dreamcast/n64 and below, and maybe a touch of GameCube)
 The specs:
+
 Raspberry Pi CM4
 
 4GB LPDDR4 RAM
