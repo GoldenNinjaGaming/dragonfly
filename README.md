@@ -5,9 +5,13 @@ Create an affordable gaming handheld that has decent emulation performance. (If 
 (Dreamcast/n64 and below, and maybe a touch of GameCube)
 The specs:
 Raspberry Pi CM4
+
 4GB LPDDR4 RAM
+
 7" 600p screen
+
 ???? Mah Battery (aiming for 4-5 hours of battery life)
+
 
 The button layout will be based off of the Nintendo Switch Lite,
 and, the best part is: It will be all open source.
